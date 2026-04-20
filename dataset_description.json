@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Data sheets required used for analysis",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Sponseller, Mia"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
